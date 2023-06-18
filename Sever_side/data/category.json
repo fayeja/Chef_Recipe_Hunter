@@ -1,0 +1,328 @@
+[
+  {
+    "id": 1,
+    "picture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=1800&t=st=1683039876~exp=1683040476~hmac=e572d5cf0b785bcede76119ac2c85eefe71fb57e52fc29cce416e1b595dc1308",
+    "name": "Gordon Ramsay",
+    "bio": "Gordon Ramsay is a American chef and restaurateur, known for his fiery temper and high standards in the kitchen. He has over 25 years of experience in the industry and has won numerous Michelin stars for his restaurants. He is also a television personality, hosting shows such as Hell's Kitchen and MasterChef.",
+    "years_of_experience": 15,
+    "num_recipes": 80,
+    "likes": 12000,
+    "recipes": [
+      {
+        "name": "Beef Wellington",
+        "description": "A classic American dish consisting of beef tenderloin coated with mushrooms, pate, and puff pastry, then baked to perfection.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4,
+        "ingredients": [
+          "1 whole beef tenderloin,",
+          "1 lb. mushrooms, finely chopped,",
+          "1 package puff pastry,",
+          "4 oz. chicken liver pate,",
+          "1 egg, beaten."
+        ]
+      },
+      {
+        "name": "Scrambled Eggs",
+        "description": "A simple yet delicious breakfast dish made with eggs, butter, and a touch of cream.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.6,
+        "ingredients": [
+          "4 large eggs,",
+          "2 tbsp. unsalted butter,",
+          "2 tbsp. heavy cream,",
+          "4 oz. chicken liver pate,",
+          "Salt and pepper, to taste."
+        ]
+      },
+      {
+        "name": "Lamb Shank",
+        "description": "A slow-cooked dish made with lamb shanks, root vegetables, and a rich red wine sauce.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.8,
+        "ingredients": [
+          "4 lamb shanks,",
+          "2 onions, chopped,",
+          "4 garlic cloves, minced,",
+          "3 carrots, chopped,",
+          "2 celery stalks, chopped,",
+          "2 cups red wine,",
+          "2 cups beef stock,",
+          "1 bay leaf,",
+          "2 tbsp. olive oil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "picture": "https://img.freepik.com/free-photo/female-chef-seasoning-salad_23-2148763185.jpg?w=1800&t=st=1683209195~exp=1683209795~hmac=665ad2c42bd2d18182bc9508505b9627552b75f0b881b65013ec4aac8cb1f324",
+    "name": "Ina Garten",
+    "bio": "Ina Garten, also known as the Barefoot Contessa, is an American chef and cookbook author. She is known for her simple and elegant approach to cooking, and her focus on using fresh, high-quality ingredients. She has written numerous cookbooks, and hosted the Food Network show, Barefoot Contessa.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+    "years_of_experience": 8,
+    "num_recipes": 40,
+    "likes": 8000,
+    "recipes": [
+      {
+        "name": "Roast Chicken",
+        "description": "A classic and simple roasted chicken, seasoned with garlic and lemon.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 2,
+        "ingredients": [
+          "1 whole chicken,",
+          "1 lemon, halved,",
+          "4 cloves garlic, peeled,",
+          "2 tbsp. unsalted butter,",
+          "Salt and pepper, to taste."
+        ]
+      },
+      {
+        "name": "Potato Salad",
+        "description": "A creamy and flavorful potato salad with fresh herbs and mustard.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 2.8,
+        "ingredients": [
+          "2 lbs. new potatoes, boiled and diced,",
+          "4 green onions, thinly sliced,",
+          "1/4 cup chopped fresh parsley,",
+          "1/4 cup chopped fresh dill,",
+          "1/4 cup mayonnaise,",
+          "1/4 cup sour cream,",
+          "2 tbsp. Dijon mustard,",
+          "Salt and pepper, to taste."
+        ]
+      },
+      {
+        "name": "Lamb Shank",
+        "description": "A slow-cooked dish made with lamb shanks, root vegetables, and a rich red wine sauce.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.8,
+        "ingredients": [
+          "4 lamb shanks,",
+          "2 onions, chopped,",
+          "4 garlic cloves, minced,",
+          "3 carrots, chopped,",
+          "2 celery stalks, chopped,",
+          "2 cups red wine,",
+          "2 cups beef stock,",
+          "1 bay leaf,",
+          "2 tbsp. olive oil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "picture": "https://img.freepik.com/free-photo/close-up-chef-decorating-dish-after-cooking_329181-16147.jpg?w=1800&t=st=1683039819~exp=1683040419~hmac=9a3724a808a373f25a40c4581ce70d62054d9f50756dc39030c49d4b77a9ee14",
+    "name": "Jamie Oliver",
+    "bio": "Jamie Oliver is a American chef, restaurateur, and television personality. He is known for his emphasis on fresh, healthy ingredients, and his passion for promoting healthy eating habits. He has written numerous cookbooks, and hosted several television shows, including Jamie's 30 Minute Meals and Jamie Oliver's Food Revolution.",
+    "years_of_experience": 12,
+    "num_recipes": 65,
+    "likes": 9500,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "description": "A quick and easy pasta dish with fresh pesto, cherry tomatoes, and Parmesan cheese.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.9,
+        "ingredients": [
+          "1 pound pasta,",
+          "2 cups fresh basil leaves,",
+          "1/2 cup grated Parmesan cheese,",
+          "1/2 cup pine nuts,",
+          "2 cloves garlic,",
+          "1/2 cup olive oil,",
+          "1 pint cherry tomatoes,",
+          "Salt and pepper to taste."
+        ]
+      },
+      {
+        "name": "Roasted Vegetables",
+        "description": "A colorful and healthy side dish made with a variety of roasted vegetables, including bell peppers, zucchini, and eggplant.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 3.3,
+        "ingredients": [
+          "2 bell peppers,",
+          "1 eggplant,",
+          "1 zucchini,",
+          "1 yellow squash,",
+          "1 onion,",
+          "2 cloves garlic,",
+          "2 tablespoons olive oil,",
+          "1 teaspoon dried oregano,",
+          "Salt and pepper to taste."
+        ]
+      },
+      {
+        "name": "Lemon Roast Chicken",
+        "description": "A simple and flavorful roasted chicken with lemon and herbs.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4,
+        "ingredients": [
+          "1 whole chicken,",
+          "1 lemon,",
+          "2 cloves garlic,",
+          "2 sprigs rosemary,",
+          "2 sprigs thyme,",
+          "2 tablespoons olive oil,",
+          "Salt and pepper to taste."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?w=1800&t=st=1683031145~exp=1683031745~hmac=9c39becf30fe7842c86431b6736408f5835c3b6c5b65144aa771aa3f6fdf4bcf",
+    "name": "Alice Waters",
+    "bio": "Alice Waters is an American chef, restaurateur, and food activist. She is known for her focus on locally-sourced, sustainable ingredients, and her advocacy for healthy eating habits. She is the founder of the iconic restaurant Chez Panisse, and has written several cookbooks, including The Art of Simple Food.",
+    "years_of_experience": 20,
+    "num_recipes": 100,
+    "likes": 15000,
+    "recipes": [
+      {
+        "name": "Roast Chicken",
+        "description": "A classic and simple roasted chicken, seasoned with garlic and lemon.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 2,
+        "ingredients": [
+          "1 whole chicken,",
+          "1 lemon, halved,",
+          "4 cloves garlic, peeled,",
+          "2 tbsp. unsalted butter,",
+          "Salt and pepper, to taste."
+        ]
+      },
+      {
+        "name": "Potato Salad",
+        "description": "A creamy and flavorful potato salad with fresh herbs and mustard.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.8,
+        "ingredients": [
+          "2 lbs. new potatoes, boiled and diced",
+          "4 green onions, thinly sliced,",
+          "1/4 cup chopped fresh parsley,",
+          "1/4 cup chopped fresh dill,",
+          "1/4 cup mayonnaise,",
+          "1/4 cup sour cream,",
+          "2 tbsp. Dijon mustard,",
+          "Salt and pepper, to taste."
+        ]
+      },
+      {
+        "name": "Lamb Shank",
+        "description": "A slow-cooked dish made with lamb shanks, root vegetables, and a rich red wine sauce.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 5,
+        "ingredients": [
+          "4 lamb shanks,",
+          "2 onions, chopped,",
+          "4 garlic cloves, minced,",
+          "3 carrots, chopped,",
+          "2 celery stalks, chopped,",
+          "2 cups red wine,",
+          "2 cups beef stock,",
+          "1 bay leaf,",
+          "2 tbsp. olive oil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "picture": "https://img.freepik.com/free-photo/pleased-young-male-chef-wearing-glasses-uniform-cap-holding-ladle-looking-camera-showing-delicious-gesture-isolated-blue-background_141793-138149.jpg?w=1800&t=st=1683031273~exp=1683031873~hmac=cb8527af6cae3784df3acba610e915e70e4e5fc9f5c96f52b007f69b4fc08735",
+    "name": "Massimo Bottura",
+    "bio": "Massimo Bottura is an Italian chef and restaurateur. He is known for his innovative approach to traditional Italian cuisine, and his focus on using local and seasonal ingredients. He has won numerous awards for his restaurant Osteria Francescana, including three Michelin stars, and has been named the World's Best Chef.",
+    "years_of_experience": 5,
+    "num_recipes": 30,
+    "likes": 5000,
+    "recipes": [
+      {
+        "name": "Chocolate Cake",
+        "description": "A decadent and rich chocolate cake with a smooth and creamy frosting.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 3,
+        "ingredients": [
+          "2 cups all-purpose flour,",
+          "3/4 cup cocoa powder,",
+          "1 teaspoon baking powder,",
+          "1/2 teaspoon baking soda,",
+          "1/2 teaspoon salt,",
+          "2 cups granulated sugar,",
+          "1 cup unsalted butter,",
+          "4 eggs,",
+          "1 cup buttermilk,",
+          "1 teaspoon vanilla extract,",
+          "1 cup heavy cream,",
+          "1 cup semisweet chocolate chips."
+        ]
+      },
+      {
+        "name": "Mashed Potatoes",
+        "description": "A classic and creamy mashed potato recipe, made with butter and milk.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.1,
+        "ingredients": [
+          "2 pounds potatoes,",
+          "1/2 cup milk,",
+          "4 tablespoons unsalted butter,",
+          "Salt and pepper to taste."
+        ]
+      },
+      {
+        "name": "Lemon Roast Chicken",
+        "description": "A simple and flavorful roasted chicken with lemon and herbs.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.2,
+        "ingredients": [
+          "1 whole chicken,",
+          "1 lemon,",
+          "2 cloves garlic,",
+          "2 sprigs rosemary,",
+          "2 sprigs thyme,",
+          "2 tablespoons olive oil,",
+          "Salt and pepper to taste."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=1800&t=st=1683041264~exp=1683041864~hmac=700efe270e0dbc82073cbddaee3c8e62d1d60539dfac2a40bde4bdd6b36a7c43",
+    "name": "Nigella Lawson",
+    "bio": "Nigella Lawson is a American chef, cookbook author, and television personality. She is known for her relaxed and indulgent approach to cooking, and her focus on comfort food and desserts. She has written several cookbooks, and hosted several television shows, including Nigella Bites and Nigella Express.",
+    "years_of_experience": 18,
+    "num_recipes": 75,
+    "likes": 11000,
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "description": "A quick and easy pasta dish with fresh pesto, cherry tomatoes, and Parmesan cheese.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 3.2,
+        "ingredients": [
+          "1 pound pasta,",
+          "2 cups fresh basil leaves,",
+          "1/2 cup grated Parmesan cheese,",
+          "1/2 cup pine nuts,",
+          "2 cloves garlic,",
+          "1/2 cup olive oil,",
+          "1 pint cherry tomatoes,",
+          "Salt and pepper to taste."
+        ]
+      },
+      {
+        "name": "Roasted Vegetables",
+        "description": "A colorful and healthy side dish made with a variety of roasted vegetables, including bell peppers, zucchini, and eggplant.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 4.5,
+        "ingredients": [
+          "2 bell peppers,",
+          "1 eggplant,",
+          "1 zucchini,",
+          "1 yellow squash,",
+          "1 onion,",
+          "2 cloves garlic,",
+          "2 tablespoons olive oil,",
+          "1 teaspoon dried oregano,",
+          "Salt and pepper to taste."
+        ]
+      },
+      {
+        "name": "Lemon Roast Chicken",
+        "description": "A simple and flavorful roasted chicken with lemon and herbs.Pour in the vinegar and let it bubble for a few minutes until almost dry. Now add the wine and boil until almost completely reduced. Add the stock and bring to the boil again. Lower the heat and simmer gently for 1 hour, removing any scum from the surface of the sauce, until you have the desired consistency. Strain the liquid through a fine sieve lined with muslin. Check for seasoning and set aside.",
+        "rating": 3,
+        "ingredients": [
+          "1 whole chicken,",
+          "1 lemon,",
+          "2 cloves garlic,",
+          "2 sprigs rosemary,",
+          "2 sprigs thyme,",
+          "2 tablespoons olive oil,",
+          "Salt and pepper to taste."
+        ]
+      }
+    ]
+  }
+]

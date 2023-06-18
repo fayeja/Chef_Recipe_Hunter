@@ -10,19 +10,38 @@ To get started with the American Cuisine website, simply clone this repository t
 
 Here are some key features of the American Cuisine website:
 
-- The website have a navbar with the website name, home, blog and user profile picture. The user profile picture on the navbar is conditional. If the user is signed in, the navbar will show the profile picture; otherwise, it will show the Login button. If the user name is available, the user's name will be visible when the mouse hovers over the profile picture.
-- A user clicks on the login button, it will be redirected to the login page having the following: Email/Password, Google Sign-in ,GitHub Sign-in
-  and a link that will redirect to the registration page.
-- The Registration page will have the Email/Password form having the following fields:Name,Email,Password and Photo URL.
-- The home page will have a Chef section with at least six cards. Each card will have the following information: Chef Picture,Chef Name,Years of experience,Numbers of recipes,Likes and View Recipes Button
-- When a user clicks on a chef's View Recipes button, he/she will be redirected to the Chef Recipes page. The Chef Recipes page will have the following : Banner - chef picture, chef name, a short bio/description, likes, number of recipes, and years of experience.A another section displaying the information of the selected chef's recipes in a tabular form or in a card group.
-- Each recipe info should contain the recipe name, ingredients (at least 5), cooking method, rating, and a Favorite button. Show at least 3 recipes. for each chef.
-- When clicking the Favorite button, show a toast message showing the recipe is your favorite and disable the button.
-- The Chef Recipe page is a private/protected page. If you reload the protected/private route (after login), this page will not redirect the user to the login page. Instead, it will keep the logged-in user on the protected route.
-- The blog section contain a blog page, Create a heading and add an icon/ button. When you click on that button, it will create a pdf and will be downloaded.
-- Interactive client-side interface for exploring different food,ingredients, and recipes
-- Multimedia content, including chef photos, names,years of experience,numbers of recipes,likes and view recipes button
-- Detailed information on each dish and ingredient, including its history, nutritional value, and cultural significance
+- The project is a website dedicated to showcasing recipes of chefs from a specific cuisine.
+- The chosen cuisine for this project is American cuisine.
+- The website design should be unique and not related to previous assignments or demo projects.
+- The website will have a navbar with the website name, Home, Blog, and User profile picture.
+- The navbar will show the user's profile picture if signed in, otherwise, it will display a Login button.
+- The footer should be present on all pages and should be reasonable and meaningful.
+- The Login page will include options for email/password login, Google Sign-in, GitHub Sign-in, and a link to the registration page.
+- The Registration page will include fields for Name, Email, Password, and Photo URL.
+- Error messages should be displayed on the Login page when the user's email or password doesn't match.
+- The Homepage will feature a banner section with text and pictures, and a Chef section with at least six cards.
+- Each card will display information about a chef, including their picture, name, years of experience, number of recipes, likes, and a "View Recipes" button.
+- At least two extra sections should be added to the Homepage.
+- Clicking on a chef's "View Recipes" button will redirect the user to the Chef Recipes page.
+- The Chef Recipes page will display a banner with the chef's picture, name, bio/description, likes, number of recipes, and years of experience.
+- The chef's recipes will be displayed in a tabular form or card group, including the recipe name, ingredients, cooking method, rating, and a Favorite button.
+- Clicking the Favorite button will show a toast message and disable the button.
+- A spinner should be displayed during the loading state of the data.
+- A 404 page with a picture should be created.
+- Firebase config keys should be hidden using Environment variables.
+- An "active route" indicator should be added to the visited route.
+- Another features include  making the website responsive, creating a blogs page with questions and answers, and implementing lazy loading for chef pictures.
+- An additional fun task is to create a button that generates a PDF of the blog page for downloading.The site should have a reasonable and meaningful design with a clean and organized code structure.
+# Technologies Used:
+
+- React.js: The project is built using React.js, a popular JavaScript library for building user interfaces.
+- Firebase: Firebase is used for user authentication and hiding the Firebase config keys.
+- React Router: React Router is used for routing and navigating between different pages of the website.
+- React Bootstrap: React Bootstrap is utilized for styling the website components and ensuring a responsive design.
+- PropTypes: PropTypes is used for validating the props passed to React components.
+- react-lazy-load: The react-lazy-load package is used for implementing lazy loading of chef pictures.
+- react-to-pdf: The react-to-pdf package is used for generating and downloading a PDF of the blog page.
+These are some of the key features and technologies used in the American cuisine project. The project aims to provide a unique and user-friendly website for exploring recipes from American chefs.
 
 ## [Client Side live link](https://vivani-4ab4a.web.app/)
 
@@ -31,9 +50,4 @@ Click here for the private repo: [https://vivani-4ab4a.web.app/](https://vivani-
 ## [Server Side live link](https://b710-chef-recipe-hunter-client-side-fayeja.vercel.app/)
 
 Click here for the private repo: [https://b710-chef-recipe-hunter-client-side-fayeja.vercel.app/](https://b710-chef-recipe-hunter-client-side-fayeja.vercel.app/)
-
-# b7a10-chef-recipe-hunter-server-side-fayeja
-# Chef_Recipe_Hunter
-# Chef_Recipe_Hunter
-# Chef_Recipe_Hunter
 # Chef_Recipe_Hunter
